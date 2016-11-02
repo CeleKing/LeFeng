@@ -1,0 +1,311 @@
+.headtop{
+			    margin:0 auto;
+			    width:1423px;
+				height:67px;
+				background:url("../images/headtop.jpg") center;
+			}
+			.headbody{
+			    margin:0 auto;
+				width:1423px;
+				height:200px;
+			}
+			    .hbtop{
+				    margin:0 auto;
+					width:1423px;
+					height:30px;
+					background:#F2F2F2;
+				}
+				    .hbborder{
+					    margin:0 auto;
+					    width:1000px;
+						height:30px;
+					}
+				    .hbtcity{
+					    width:93px;
+						height:30px;
+					    text-indent:17px;
+						font-size:12px;
+						color:#666;
+						line-height:30px;
+						float:left;
+						border-left:1px solid #f2f2f2;
+						border-right:1px solid #f2f2f2;
+						position:relative;
+					}   
+					    .hbtcity li{
+							text-align:center;
+						}
+					    .hbtcity span{
+					        color:red;
+						    font-size:13px;
+						    padding:0 10px;
+							text-align:center;
+					    }
+		                .mycity{
+							position:relative;
+							width:312px;
+							height:198px;
+							background:#fff;
+							border:1px solid #f2f2f2;
+							border-top:0;
+							left:-1px;
+							z-index:1;
+							padding:5px;
+							display:none;
+						}
+						    .mycityt{
+								display:block;
+								width:58px;
+								height:32px;
+								margin-right:2px;
+								float:left;
+								color:#666;
+								font-size:12px;
+							}
+						.hbtcity:hover{
+							background:#fff;
+							border-left:1px solid #dfdfdf;
+						    border-right:1px solid #dfdfdf;
+						}
+						.hbtcity:hover .mycity{
+							display:block;
+						}
+					.hbtsign{
+					    width:222px;
+						height:30px;
+						font-size:12px;
+						color:#666;
+						line-height:30px;
+						margin-left:360px;
+						margin-right:20px;
+						float:left;
+					}
+					.hbtsign a{
+					    color:red;
+					    text-decoration:none;
+					}
+					.hbtcollect{
+					    width:48px;
+					    height:30px;
+						font-size:12px;
+						color:#666;
+						line-height:30px;
+						margin-right:20px;
+						float:left;
+					}
+					.hbtcollect a{
+						color:#666;
+					}
+					.hbtorder{
+						width:57px;
+						height:30px;
+						font-size:12px;
+						text-align:center;
+						line-height:30px;
+						margin-right:20px;
+						border-left:1px solid #f2f2f2;
+						border-right:1px solid #f2f2f2;
+						float:left;
+						position:relative;
+					}
+					.hbtorder a{
+						color:#666;
+					}
+					.myorder{
+						position:absolute;
+						right:-1px;
+						top:30px;
+						width:57px;
+						height:60px;
+						background:#fff;
+						border:1px solid #dfdfdf;
+						border-top:0px;
+						text-align:center;
+						display:none;
+					}
+					.myorder a{
+						width:57px;
+						height:30px;
+						display:block;
+						font-size:12px;
+						line-height:30px;
+						color:#666;
+					}
+					.hbtorder:hover .myorder{
+						display:block;
+					}
+					.hbtorder:hover{
+						background:#fff;
+						border-left:1px solid #dfdfdf;
+						border-right:1px solid #dfdfdf;
+					}
+					.hbtaim{
+						width:57px;
+						height:30px;
+						font-size:12px;
+						color:#666;
+						line-height:30px;
+						margin-right:20px;
+						text-align:center;
+						border-left:1px solid #f2f2f2;
+						border-right:1px solid #f2f2f2;
+						float:left;
+					}
+					.hbtaim a{
+						color:#666;
+					}
+					.mytaim{
+						position:absolute;
+						right:302px;
+						width:127px;
+						height:220px;
+						background:#fff;
+						border:1px solid #dfdfdf;
+						border-top:0px;
+						text-align:center;
+						padding:0 2px 0 2px;
+						display:none;
+					}
+					.mytaim a{
+						width:57px;
+						height:30px;
+						font-size:12px;
+						margin-right:10px;
+						text-align:center;
+						line-height:30px;
+						color:#666;
+					}
+					#coper{
+						margin-right:75px;
+					}
+					.mytaim span{
+						color:red;
+					}
+					.hbtaim:hover .mytaim{
+						display:block;
+					}
+					.hbtaim:hover{
+						background:#fff;
+						border-left:1px solid #dfdfdf;
+						border-right:1px solid #dfdfdf;
+					}
+					.hbtphone{
+						width:52px;
+						color:red;
+						height:30px;
+						font-size:12px;
+						border-left:1px solid #f2f2f2;
+						border-right:1px solid #f2f2f2;
+						line-height:30px;
+						margin-right:20px;
+						text-align:center;
+						float:left;
+					}
+					.hbtphone a{
+						color:#666;
+					}
+					.myphone{
+						position:absolute;
+						right:234px;
+						width:137px;
+						height:170px;
+						background:#fff;
+						border:1px solid #dfdfdf;
+						border-top:0px;
+						text-align:center;
+						padding:0 2px 0 2px;
+						display:none;
+					}
+					.hbtphone:hover .myphone{
+						display:block;
+					}
+					.hbtphone:hover{
+						background:#fff;
+						border-left:1px solid #dfdfdf;
+						border-right:1px solid #dfdfdf;
+					}
+				.hbmid{
+				    width:1423px;
+					height:130px;
+					background:#fff;	
+				}
+				    .hbmida{
+					    margin:0 auto;
+					    width:1000px;
+					    height:130px;
+					    margin-left:211.5px;
+					    margin-right:211.5px;
+					    background:#fff;
+					}
+					.logo_search{
+						width:400px;
+						height:58px;
+						background:red;
+					}
+					    .hblogo{
+						    width:171px;
+							height:88px;
+							background:url("../images/1.png") -230px -198px;
+							float:left;
+							margin-top:8px;
+						}
+						.hbsearch{
+						    width:400px;
+							height:40px;
+							background:url("../images/1.png") 0px -443px;
+							float:left;
+							margin-top:45px;
+							margin-left:118px;
+							position:relative;
+						}
+						.hbsearch span{
+						   display:block;
+						   width:72px;
+						   height:40px;
+						   color:#fff;
+						   font-size:15px;
+						   font-weight: bold;
+						   text-align:center;
+						   line-height:40px;
+						   margin-left:328px;
+						   position:relative;
+						}
+						.hbsearcha input{
+                            width: 290px;
+                            height:28px;
+							border:none;
+							outline:none;
+                            line-height: 27px;
+                            font-size:14px;
+							position:absolute;
+							bottom:5.5px;
+							left:18px;
+						}
+						.hbshopcart{
+							width:136px;
+							height:42px;
+							float:right;
+							margin-top:45px;
+						}
+						.hbsearch p{
+							font-size:12px;
+							color:#666;
+						}
+						.searchp{
+							margin-top:10px;
+							margin-left:20px;
+						}
+						.searchp a{
+							margin-right:10px;
+						}
+						.shopcartp{
+							width:136px;
+							height:42px;
+							background:url("../images/1.png") 0px -112px;
+						}
+						/*.hbshopcart strong{
+							position:absolute;
+							top:11px;
+							left:107px;
+							color:#fff;
+						}*/

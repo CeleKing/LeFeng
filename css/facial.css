@@ -1,0 +1,210 @@
+.facial{
+			    margin:0 auto;
+			    width:1000px;
+				height:42px;
+				border-bottom:2px solid  #f99c17;
+				padding:30px 0px 10px 0px;
+			}
+			.facialp{
+			    width:118px;
+				height:40px;
+			    background:url("../images/2.png") 0 -144px;
+				margin-right:20px;
+				float:left;
+			}
+			.facon{
+			    margin:0 auto;
+				width:1000px;
+				height:695px;
+				padding:15px 0;
+				background:#fff;
+			}
+			.faconone{
+				    width:250px;
+					height:338px;
+					background: #26aff6;
+					margin-left:15px;
+					float:left;
+					
+				}
+				.facononep{
+					width:250px;
+					height:338px;
+					background:url("../images/51.jpg") center;
+					background-size:cover;
+				}
+				.facontwo{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.facontwop{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/52.jpg") ;
+					background-size:cover;
+				}
+				.facontwot{
+					margin:0 auto;
+					width:200px;
+					height:43px;
+					margin-top:10px;
+				}
+				.facontwot i{
+					font-size:14px;
+					color:#666;
+					font-style:normal;
+					line-height:18px;
+					font-family: tahoma,arial;
+				}
+				.facontwot  b{
+					font-size: 14px;
+                    color: #f52648;
+                    font-weight: 700;
+				}
+				.faprice{
+					
+					width:200px;
+					height:38px;
+		            margin:0 auto;
+				}
+				.faprice>b{
+					padding-left: 5px;
+                    color: #999;
+                    text-decoration: line-through;
+					font-style: normal;
+                    font-weight: 400;
+					line-height: 30px;
+					font-size:12px;
+				}
+				.faprice span{
+					color: #666;
+                    font: 24px Arial,Helvetica,sans-serif;
+				}
+				.faprice span b{
+					color: #666;
+                    font: 13px Arial,Helvetica,sans-serif;
+				}
+				#faone{
+					position:absolute;
+					right:0;
+					bottom:10px;
+				}
+				.facontwo:hover div[class="cart"]{
+					display:block;
+				}
+				.facontwo:hover div[class="facontwop"]{
+					opacity: 0.2;
+				}
+				.faconthree{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.faconthreep{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/53.jpg") ;
+					background-size:cover;
+				}
+				.faconthree:hover div[class="cart"]{
+					display:block;
+				}
+				.faconthree:hover div[class="faconthreep"]{
+					opacity: 0.2;
+				}
+				.faconfour{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.faconfourp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/54.jpg") ;
+					background-size:cover;
+				}
+				.faconfour:hover div[class="cart"]{
+					display:block;
+				}
+				.faconfour:hover div[class="faconfourp"]{
+					opacity: 0.2;
+				}
+				.faconfive{
+				    width:250px;
+					height:338px;
+					margin-top:15px;
+					margin-left:15px;
+					float:left;
+				}
+				.faconfivep{
+					width:250px;
+					height:338px;
+					background:url("../images/55.jpg") center;
+					background-size:cover;
+				}
+				
+				.faconsix{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.faconsix:hover div[class="cart"]{
+					display:block;
+				}
+				.faconsix:hover div[class="faconsixp"]{
+					opacity: 0.2;
+				}
+				.faconsixp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/56.jpg") ;
+					background-size:cover;
+				}
+				.faconseven{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.faconsevenp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/57.jpg") ;
+					background-size:cover;
+				}
+				.faconseven:hover div[class="cart"]{
+					display:block;
+				}
+				.faconseven:hover div[class="faconsevenp"]{
+					opacity: 0.2;
+				}
+				.faconeight{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.faconeightp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/58.jpg") ;
+					background-size:cover;
+				}
+				.faconeight:hover div[class="cart"]{
+					display:block;
+				}
+				.faconeight:hover div[class="faconeightp"]{
+					opacity: 0.2;
+				}
+				

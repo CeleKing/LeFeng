@@ -1,0 +1,231 @@
+.abody{
+			    margin:0 auto;
+			    width:1000px;
+				height:42px;
+				border-bottom:2px solid  #f99c17;
+				padding:30px 0px 10px 0px;
+			}
+			.abodyp{
+			    width:118px;
+				height:40px;
+			    background:url("../images/2.png") 0 -184px;
+				margin-right:20px;
+				float:left;
+			}
+			.bdcon{
+			    margin:0 auto;
+				width:1000px;
+				height:695px;
+				padding:15px 0;
+				background:#fff;
+			}
+			.bdcial{
+			    margin:0 auto;
+			    width:1000px;
+				height:42px;
+				border-bottom:2px solid  #f99c17;
+				padding:30px 0px 10px 0px;
+			}
+			.bdcialp{
+			    width:118px;
+				height:40px;
+			    background:url("../images/2.png") 0 -144px;
+				margin-right:20px;
+				float:left;
+			}
+			.bdcon{
+			    margin:0 auto;
+				width:1000px;
+				height:695px;
+				padding:15px 0;
+				background:#fff;
+			}
+			.bdconone{
+				    width:250px;
+					height:338px;
+					background: #26aff6;
+					margin-left:15px;
+					float:left;
+					
+				}
+				.bdcononep{
+					width:250px;
+					height:338px;
+					background:url("../images/61.jpg") center;
+					background-size:cover;
+				}
+				.bdcontwo{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdcontwop{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/62.jpg") ;
+					background-size:cover;
+				}
+				.bdcontwot{
+					margin:0 auto;
+					width:200px;
+					height:43px;
+					margin-top:10px;
+				}
+				.bdcontwot i{
+					font-size:14px;
+					color:#666;
+					font-style:normal;
+					line-height:18px;
+					font-bdmily: tahoma,arial;
+				}
+				.bdcontwot  b{
+					font-size: 14px;
+                    color: #f52648;
+                    font-weight: 700;
+				}
+				.bdprice{
+					
+					width:200px;
+					height:38px;
+		            margin:0 auto;
+				}
+				.bdprice>b{
+					padding-left: 5px;
+                    color: #999;
+                    text-decoration: line-through;
+					font-style: normal;
+                    font-weight: 400;
+					line-height: 30px;
+					font-size:12px;
+				}
+				.bdprice span{
+					color: #666;
+                    font: 24px Arial,Helvetica,sans-serif;
+				}
+				.bdprice span b{
+					color: #666;
+                    font: 13px Arial,Helvetica,sans-serif;
+				}
+				#bdone{
+					position:absolute;
+					right:0;
+					bottom:10px;
+				}
+				.bdcontwo:hover div[class="cart"]{
+					display:block;
+				}
+				.bdcontwo:hover div[class="bdcontwop"]{
+					opacity: 0.2;
+				}
+				.bdconthree{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdconthreep{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/63.jpg") ;
+					background-size:cover;
+				}
+				.bdconthree:hover div[class="cart"]{
+					display:block;
+				}
+				.bdconthree:hover div[class="bdconthreep"]{
+					opacity: 0.2;
+				}
+				.bdconfour{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdconfourp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/64.jpg") ;
+					background-size:cover;
+				}
+				.bdconfour:hover div[class="cart"]{
+					display:block;
+				}
+				.bdconfour:hover div[class="bdconfourp"]{
+					opacity: 0.2;
+				}
+				.bdconfive{
+				    width:250px;
+					height:338px;
+					margin-top:15px;
+					margin-left:15px;
+					float:left;
+				}
+				.bdconfivep{
+					width:250px;
+					height:338px;
+					background:url("../images/65.jpg") center;
+					background-size:cover;
+				}
+				
+				.bdconsix{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdconsix:hover div[class="cart"]{
+					display:block;
+				}
+				.bdconsix:hover div[class="bdconsixp"]{
+					opacity: 0.2;
+				}
+				.bdconsixp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/66.jpg") ;
+					background-size:cover;
+				}
+				.bdconseven{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdconsevenp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/67.jpg") ;
+					background-size:cover;
+				}
+				.bdconseven:hover div[class="cart"]{
+					display:block;
+				}
+				.bdconseven:hover div[class="bdconsevenp"]{
+					opacity: 0.2;
+				}
+				.bdconeight{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.bdconeightp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/68.jpg") ;
+					background-size:cover;
+				}
+				.bdconeight:hover div[class="cart"]{
+					display:block;
+				}
+				.bdconeight:hover div[class="bdconeightp"]{
+					opacity: 0.2;
+				}
+				

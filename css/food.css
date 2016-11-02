@@ -1,0 +1,210 @@
+.food{
+			    margin:0 auto;
+			    width:1000px;
+				height:42px;
+				border-bottom:2px solid  #f99c17;
+				padding:30px 0px 10px 0px;
+			}
+			.foodp{
+			    width:118px;
+				height:40px;
+			    background:url("../images/2.png") 0 -224px;
+				margin-right:20px;
+				float:left;
+			}
+			.fdcon{
+			    margin:0 auto;
+				width:1000px;
+				height:695px;
+				padding:15px 0;
+				background:#fff;
+			}
+			.fdconone{
+				    width:250px;
+					height:338px;
+					background: #26aff6;
+					margin-left:15px;
+					float:left;
+					
+				}
+				.fdcononep{
+					width:250px;
+					height:338px;
+					background:url("../images/71.jpg") center;
+					background-size:cover;
+				}
+				.fdcontwo{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdcontwop{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/72.jpg") ;
+					background-size:cover;
+				}
+				.fdcontwot{
+					margin:0 auto;
+					width:200px;
+					height:43px;
+					margin-top:10px;
+				}
+				.fdcontwot i{
+					font-size:14px;
+					color:#666;
+					font-style:normal;
+					line-height:18px;
+					font-fdmily: tahoma,arial;
+				}
+				.fdcontwot  b{
+					font-size: 14px;
+                    color: #f52648;
+                    font-weight: 700;
+				}
+				.fdprice{
+					
+					width:200px;
+					height:38px;
+		            margin:0 auto;
+				}
+				.fdprice>b{
+					padding-left: 5px;
+                    color: #999;
+                    text-decoration: line-through;
+					font-style: normal;
+                    font-weight: 400;
+					line-height: 30px;
+					font-size:12px;
+				}
+				.fdprice span{
+					color: #666;
+                    font: 24px Arial,Helvetica,sans-serif;
+				}
+				.fdprice span b{
+					color: #666;
+                    font: 13px Arial,Helvetica,sans-serif;
+				}
+				#fdone{
+					position:absolute;
+					right:0;
+					bottom:10px;
+				}
+				.fdcontwo:hover div[class="cart"]{
+					display:block;
+				}
+				.fdcontwo:hover div[class="fdcontwop"]{
+					opacity: 0.2;
+				}
+				.fdconthree{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdconthreep{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/73.jpg") ;
+					background-size:cover;
+				}
+				.fdconthree:hover div[class="cart"]{
+					display:block;
+				}
+				.fdconthree:hover div[class="fdconthreep"]{
+					opacity: 0.2;
+				}
+				.fdconfour{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdconfourp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/74.jpg") ;
+					background-size:cover;
+				}
+				.fdconfour:hover div[class="cart"]{
+					display:block;
+				}
+				.fdconfour:hover div[class="fdconfourp"]{
+					opacity: 0.2;
+				}
+				.fdconfive{
+				    width:250px;
+					height:338px;
+					margin-top:15px;
+					margin-left:15px;
+					float:left;
+				}
+				.fdconfivep{
+					width:250px;
+					height:338px;
+					background:url("../images/75.jpg") center;
+					background-size:cover;
+				}
+				
+				.fdconsix{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdconsix:hover div[class="cart"]{
+					display:block;
+				}
+				.fdconsix:hover div[class="fdconsixp"]{
+					opacity: 0.2;
+				}
+				.fdconsixp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/76.jpg") ;
+					background-size:cover;
+				}
+				.fdconseven{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdconsevenp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/77.jpg") ;
+					background-size:cover;
+				}
+				.fdconseven:hover div[class="cart"]{
+					display:block;
+				}
+				.fdconseven:hover div[class="fdconsevenp"]{
+					opacity: 0.2;
+				}
+				.fdconeight{
+				    width:240px;
+					height:338px;
+					float:left;
+					position:relative;
+				}
+				.fdconeightp{
+					margin:0 auto;
+					width:200px;
+					height:253px;
+					background:url("../images/78.jpg") ;
+					background-size:cover;
+				}
+				.fdconeight:hover div[class="cart"]{
+					display:block;
+				}
+				.fdconeight:hover div[class="fdconeightp"]{
+					opacity: 0.2;
+				}
+				
